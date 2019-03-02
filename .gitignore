@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+codewars-2014.so
+codewars-2014.dylib
+codewars-2014.dll
+codewars-2014.a
+codewars-2014.lib
+codewars-2014-test-*
+*.exe
+*.o
+*.obj
+*.lst
+prob09
